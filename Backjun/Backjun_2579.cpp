@@ -2,8 +2,6 @@
 // 난이도 실버3
 // 체감난이도 실버1~골드3
 
-
-
 #include <vector>
 #include <iostream>
 #include <cmath>

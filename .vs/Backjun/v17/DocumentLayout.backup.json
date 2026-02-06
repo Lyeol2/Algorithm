@@ -1,93 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Git\\project-scaduler\\Backjun\\",
+  "WorkspaceRootPath": "E:\\Git\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2579.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1463.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1463.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_2579.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_2579.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1932.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1932.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9461.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_9461.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_9461.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9663.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_9663.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9184.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_9184.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_9184.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1912.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1912.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1932.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1932.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1904.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1904.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1931.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1931.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_11047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_11047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_20149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_20149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\BackJun_17386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\BackJun_17386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2166_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_2166_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1708_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1708_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_17387.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1708_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1708_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_2166_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_2166_\uD574\uB2F5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_9663.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_9663.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1912.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1912.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1904.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1904.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_1931.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_1931.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_11047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_11047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_20149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_20149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\BackJun_17386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\BackJun_17386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_17387.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_17387.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_11758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|E:\\Git\\Algorithm\\Backjun\\Backjun_11758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBD596BB-A8B8-4EE0-B0EE-A6AC01195245}|Backjun\\Backjun.vcxproj|solutionrelative:Backjun\\Backjun_11758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -109,239 +113,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Backjun_1463.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1463.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1463.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1463.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1463.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-06T08:44:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Backjun_2579.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2579.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_2579.cpp",
               "RelativeDocumentMoniker": "Backjun\\Backjun_2579.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2579.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_2579.cpp",
               "RelativeToolTip": "Backjun\\Backjun_2579.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-04T00:48:15.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Backjun_1932.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1932.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1932.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1932.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1932.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwEMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-04T00:15:25.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Backjun_1149.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1149.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1149.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1149.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1149.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwD4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-03T23:31:09.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Backjun_1912.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1912.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1912.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1912.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1912.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-01T17:54:06.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Backjun_1931.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1931.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1931.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1931.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1931.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T23:19:09.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Backjun_1904.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1904.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1904.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1904.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1904.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-30T17:40:02.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Backjun_1193.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1193.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1193.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1193.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1193.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T22:29:23.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T19:41:43.907Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Backjun_9184.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9184.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_9184.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9184.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_9184.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCgAAAAQAAAAAAAAAA==",
+              "Title": "Backjun_1932.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1932.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1932.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1932.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1932.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-30T04:59:44.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Backjun_9663.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9663.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_9663.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9663.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_9663.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T20:11:42.642Z"
+              "WhenOpened": "2026-02-04T00:15:25.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Backjun_9461.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9461.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_9461.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_9461.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_9461.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Title": "Backjun_9184.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_9184.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_9184.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_9184.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_9184.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-30T18:17:17.331Z"
+              "WhenOpened": "2026-01-30T04:59:44.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAjwJMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T00:53:44.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BackJun_17386.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\BackJun_17386.cpp",
-              "RelativeDocumentMoniker": "Backjun\\BackJun_17386.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\BackJun_17386.cpp",
-              "RelativeToolTip": "Backjun\\BackJun_17386.cpp",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAjwHkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T16:30:13.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Backjun_17387.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_17387.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_17387.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_17387.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_17387.cpp",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T17:30:18.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Backjun_20149.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_20149.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_20149.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_20149.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_20149.cpp",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAcwPIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T21:43:55.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Backjun_11758.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_11758.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_11758.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_11758.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_11758.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T00:41:54.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Backjun_2166_\uD574\uB2F5.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T00:39:25.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Backjun_11047.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_11047.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_11047.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_11047.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_11047.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T23:11:13.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-22T13:04:20.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "Backjun_1708_\uD574\uB2F5.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1708_\uD574\uB2F5.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1708_\uD574\uB2F5.cpp",
               "RelativeDocumentMoniker": "Backjun\\Backjun_1708_\uD574\uB2F5.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1708_\uD574\uB2F5.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1708_\uD574\uB2F5.cpp",
               "RelativeToolTip": "Backjun\\Backjun_1708_\uD574\uB2F5.cpp",
               "ViewState": "AgIAAA0AAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -349,23 +176,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Backjun_2166.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2166.cpp",
-              "RelativeDocumentMoniker": "Backjun\\Backjun_2166.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_2166.cpp",
-              "RelativeToolTip": "Backjun\\Backjun_2166.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1708_\uC2DC\uAC04\uCD08\uACFC.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T23:51:57.789Z"
+              "WhenOpened": "2026-01-22T13:04:20.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "Backjun_1149.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1149.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1149.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1149.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1149.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T23:31:09.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Backjun_9461.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_9461.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_9461.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_9461.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_9461.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T18:17:17.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1003_\uD0D1\uB2E4\uC6B4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T19:41:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Backjun_2166_\uD574\uB2F5.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_2166_\uD574\uB2F5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T00:39:25.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Backjun_1003_\uBC14\uD140\uC5C5.cpp",
-              "DocumentMoniker": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp",
               "RelativeDocumentMoniker": "Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp",
-              "ToolTip": "E:\\Git\\project-scaduler\\Backjun\\Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp",
               "RelativeToolTip": "Backjun\\Backjun_1003_\uBC14\uD140\uC5C5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -373,7 +251,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Backjun_1193.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1193.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1193.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1193.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1193.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T22:29:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Backjun_1904.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1904.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1904.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1904.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1904.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T17:40:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Backjun_1931.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1931.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1931.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1931.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1931.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T23:19:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Backjun_1912.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_1912.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_1912.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_1912.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_1912.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T17:54:06.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Backjun_9663.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_9663.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_9663.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_9663.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_9663.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T20:11:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_25308_\uB2E4\uC2DC\uD480\uAC83.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T00:53:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BackJun_17386.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\BackJun_17386.cpp",
+              "RelativeDocumentMoniker": "Backjun\\BackJun_17386.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\BackJun_17386.cpp",
+              "RelativeToolTip": "Backjun\\BackJun_17386.cpp",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAjwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T16:30:13.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Backjun_17387.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_17387.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_17387.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_17387.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_17387.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T17:30:18.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Backjun_20149.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_20149.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_20149.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_20149.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_20149.cpp",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAcwPIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T21:43:55.619Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "Backjun_11758.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_11758.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_11758.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_11758.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_11758.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T00:41:54.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Backjun_11047.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_11047.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_11047.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_11047.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_11047.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T23:11:13.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Backjun_2166.cpp",
+              "DocumentMoniker": "E:\\Git\\Algorithm\\Backjun\\Backjun_2166.cpp",
+              "RelativeDocumentMoniker": "Backjun\\Backjun_2166.cpp",
+              "ToolTip": "E:\\Git\\Algorithm\\Backjun\\Backjun_2166.cpp",
+              "RelativeToolTip": "Backjun\\Backjun_2166.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T23:51:57.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "format",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\format",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\format",
@@ -383,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "new_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp",
